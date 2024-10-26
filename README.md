@@ -1,2 +1,3 @@
-# freeman
-independent and free
+# Quant
+
+The foundation of digital finance.
